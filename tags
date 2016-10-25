@@ -4,30 +4,48 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+A2	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function A2(fun, a, b)$/;"	f
 A2	elm.js	/^function A2(fun, a, b)$/;"	f
+A3	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function A3(fun, a, b, c)$/;"	f
 A3	elm.js	/^function A3(fun, a, b, c)$/;"	f
+A4	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function A4(fun, a, b, c, d)$/;"	f
 A4	elm.js	/^function A4(fun, a, b, c, d)$/;"	f
+A5	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function A5(fun, a, b, c, d, e)$/;"	f
 A5	elm.js	/^function A5(fun, a, b, c, d, e)$/;"	f
+A6	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function A6(fun, a, b, c, d, e, f)$/;"	f
 A6	elm.js	/^function A6(fun, a, b, c, d, e, f)$/;"	f
+A7	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function A7(fun, a, b, c, d, e, f, g)$/;"	f
 A7	elm.js	/^function A7(fun, a, b, c, d, e, f, g)$/;"	f
+A8	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function A8(fun, a, b, c, d, e, f, g, h)$/;"	f
 A8	elm.js	/^function A8(fun, a, b, c, d, e, f, g, h)$/;"	f
+A9	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function A9(fun, a, b, c, d, e, f, g, h, i)$/;"	f
 A9	elm.js	/^function A9(fun, a, b, c, d, e, f, g, h, i)$/;"	f
+Cons	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function Cons(hd, tl)$/;"	f
 Cons	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function Cons(hd, tl)$/;"	f	function:_elm_lang$core$Native_List
 Cons	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function Cons(hd, tl)$/;"	f
 Cons	elm.js	/^function Cons(hd, tl)$/;"	f
 Cons	elm.js	/^function Cons(hd, tl)$/;"	f	function:_elm_lang$core$Native_List
 Elm	elm.js	/^var Elm = {};$/;"	v
 Elm.Native.TestHelpers.make	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/tests/Native/TestHelpers.js	/^Elm.Native.TestHelpers = {};$/;"	f
+F2	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function F2(fun)$/;"	f
 F2	elm.js	/^function F2(fun)$/;"	f
+F3	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function F3(fun)$/;"	f
 F3	elm.js	/^function F3(fun)$/;"	f
+F4	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function F4(fun)$/;"	f
 F4	elm.js	/^function F4(fun)$/;"	f
+F5	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function F5(fun)$/;"	f
 F5	elm.js	/^function F5(fun)$/;"	f
+F6	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function F6(fun)$/;"	f
 F6	elm.js	/^function F6(fun)$/;"	f
+F7	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function F7(fun)$/;"	f
 F7	elm.js	/^function F7(fun)$/;"	f
+F8	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function F8(fun)$/;"	f
 F8	elm.js	/^function F8(fun)$/;"	f
+F9	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function F9(fun)$/;"	f
 F9	elm.js	/^function F9(fun)$/;"	f
 POSTFIX	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^var POSTFIX = '_elmW6BL';$/;"	v
 POSTFIX	elm.js	/^var POSTFIX = '_elmW6BL';$/;"	v
+Tuple2	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function Tuple2(x, y)$/;"	f
 Tuple2	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function Tuple2(x, y)$/;"	f	function:_elm_lang$core$Native_Utils
 Tuple2	elm.js	/^function Tuple2(x, y)$/;"	f	function:_elm_lang$core$Native_Utils
 _elm_lang$core$Array$isEmpty	elm.js	/^var _elm_lang$core$Array$isEmpty = function (array) {$/;"	f
@@ -327,80 +345,118 @@ _elm_lang$virtual_dom$Native_VirtualDom	elm-stuff/packages/elm-lang/virtual-dom/
 _elm_lang$virtual_dom$Native_VirtualDom	elm.js	/^var _elm_lang$virtual_dom$Native_VirtualDom = function() {$/;"	f
 _user$project$Main$init	elm.js	/^var _user$project$Main$init = false;$/;"	v
 _user$project$Main$view	elm.js	/^var _user$project$Main$view = function (model) {$/;"	f
+abs	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function abs(n)$/;"	f
 abs	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function abs(n)$/;"	f	function:_elm_lang$core$Native_Basics
 abs	elm.js	/^function abs(n)$/;"	f	function:_elm_lang$core$Native_Basics
+addDomNodes	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function addDomNodes(domNode, vNode, patches, eventNode)$/;"	f
 addDomNodes	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function addDomNodes(domNode, vNode, patches, eventNode)$/;"	f
 addDomNodes	elm.js	/^function addDomNodes(domNode, vNode, patches, eventNode)$/;"	f
+addDomNodesHelp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function addDomNodesHelp(domNode, vNode, patches, i, low, high, eventNode)$/;"	f
 addDomNodesHelp	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function addDomNodesHelp(domNode, vNode, patches, i, low, high, eventNode)$/;"	f
 addDomNodesHelp	elm.js	/^function addDomNodesHelp(domNode, vNode, patches, i, low, high, eventNode)$/;"	f
+addPublicModule	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function addPublicModule(object, name, main)$/;"	f
 addPublicModule	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function addPublicModule(object, name, main)$/;"	f	function:_elm_lang$core$Native_Platform
 addPublicModule	elm.js	/^function addPublicModule(object, name, main)$/;"	f	function:_elm_lang$core$Native_Platform
+addSlashes	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function addSlashes(str, isChar)$/;"	f
 addSlashes	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function addSlashes(str, isChar)$/;"	f
 addSlashes	elm.js	/^function addSlashes(str, isChar)$/;"	f
+all	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function all(pred, str)$/;"	f
 all	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function all(pred, str)$/;"	f	function:_elm_lang$core$Native_String
 all	elm.js	/^function all(pred, str)$/;"	f	function:_elm_lang$core$Native_String
+andThen	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function andThen(decoder, callback)$/;"	f
+andThen	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function andThen(task, callback)$/;"	f
 andThen	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function andThen(decoder, callback)$/;"	f
 andThen	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function andThen(task, callback)$/;"	f
 andThen	elm.js	/^function andThen(task, callback)$/;"	f
 answer	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^			var answer = decoder.func;$/;"	v
 answer	elm.js	/^			var answer = decoder.func;$/;"	v
+any	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function any(pred, str)$/;"	f
 any	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function any(pred, str)$/;"	f	function:_elm_lang$core$Native_String
 any	elm.js	/^function any(pred, str)$/;"	f	function:_elm_lang$core$Native_String
+append	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function append(a, b)$/;"	f
+append	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function append(a,b)$/;"	f
+append	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function append(xs, ys)$/;"	f
 append	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function append(a,b)$/;"	f
 append	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function append(a, b)$/;"	f	function:_elm_lang$core$Native_String
 append	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function append(xs, ys)$/;"	f
 append	elm.js	/^function append(a, b)$/;"	f	function:_elm_lang$core$Native_String
 append	elm.js	/^function append(a,b)$/;"	f
+append_	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function append_(a, b)$/;"	f
 append_	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function append_(a, b)$/;"	f
 append_	elm.js	/^function append_(a, b)$/;"	f
+applyAttrs	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyAttrs(domNode, attrs)$/;"	f
 applyAttrs	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyAttrs(domNode, attrs)$/;"	f
 applyAttrs	elm.js	/^function applyAttrs(domNode, attrs)$/;"	f
+applyAttrsNS	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyAttrsNS(domNode, nsAttrs)$/;"	f
 applyAttrsNS	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyAttrsNS(domNode, nsAttrs)$/;"	f
 applyAttrsNS	elm.js	/^function applyAttrsNS(domNode, nsAttrs)$/;"	f
+applyEvents	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyEvents(domNode, eventNode, events)$/;"	f
 applyEvents	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyEvents(domNode, eventNode, events)$/;"	f
 applyEvents	elm.js	/^function applyEvents(domNode, eventNode, events)$/;"	f
+applyFacts	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyFacts(domNode, eventNode, facts)$/;"	f
 applyFacts	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyFacts(domNode, eventNode, facts)$/;"	f
 applyFacts	elm.js	/^function applyFacts(domNode, eventNode, facts)$/;"	f
+applyPatch	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyPatch(domNode, patch)$/;"	f
 applyPatch	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyPatch(domNode, patch)$/;"	f
 applyPatch	elm.js	/^function applyPatch(domNode, patch)$/;"	f
+applyPatchRedraw	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyPatchRedraw(domNode, vNode, eventNode)$/;"	f
 applyPatchRedraw	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyPatchRedraw(domNode, vNode, eventNode)$/;"	f
 applyPatchRedraw	elm.js	/^function applyPatchRedraw(domNode, vNode, eventNode)$/;"	f
+applyPatchReorder	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyPatchReorder(domNode, patch)$/;"	f
 applyPatchReorder	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyPatchReorder(domNode, patch)$/;"	f
 applyPatchReorder	elm.js	/^function applyPatchReorder(domNode, patch)$/;"	f
+applyPatchReorderEndInsertsHelp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyPatchReorderEndInsertsHelp(endInserts, patch)$/;"	f
 applyPatchReorderEndInsertsHelp	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyPatchReorderEndInsertsHelp(endInserts, patch)$/;"	f
 applyPatchReorderEndInsertsHelp	elm.js	/^function applyPatchReorderEndInsertsHelp(endInserts, patch)$/;"	f
+applyPatches	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyPatches(rootDomNode, oldVirtualNode, patches, eventNode)$/;"	f
 applyPatches	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyPatches(rootDomNode, oldVirtualNode, patches, eventNode)$/;"	f
 applyPatches	elm.js	/^function applyPatches(rootDomNode, oldVirtualNode, patches, eventNode)$/;"	f
+applyPatchesHelp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyPatchesHelp(rootDomNode, patches)$/;"	f
 applyPatchesHelp	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyPatchesHelp(rootDomNode, patches)$/;"	f
 applyPatchesHelp	elm.js	/^function applyPatchesHelp(rootDomNode, patches)$/;"	f
+applyStyles	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function applyStyles(domNode, styles)$/;"	f
 applyStyles	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function applyStyles(domNode, styles)$/;"	f
 applyStyles	elm.js	/^function applyStyles(domNode, styles)$/;"	f
+applyTaggers	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function applyTaggers(x)$/;"	f
 applyTaggers	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function applyTaggers(x)$/;"	f	function:toEffect
 applyTaggers	elm.js	/^	function applyTaggers(x)$/;"	f	function:toEffect
+attribute	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function attribute(key, value)$/;"	f
 attribute	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function attribute(key, value)$/;"	f
 attribute	elm.js	/^function attribute(key, value)$/;"	f
+attributeNS	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function attributeNS(namespace, key, value)$/;"	f
 attributeNS	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function attributeNS(namespace, key, value)$/;"	f
 attributeNS	elm.js	/^function attributeNS(namespace, key, value)$/;"	f
+bad	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function bad(msg)$/;"	f
 bad	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function bad(msg)$/;"	f
 bad	elm.js	/^function bad(msg)$/;"	f
+badCustom	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function badCustom(msg)$/;"	f
 badCustom	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function badCustom(msg)$/;"	f
 badCustom	elm.js	/^function badCustom(msg)$/;"	f
+badField	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function badField(field, nestedProblems)$/;"	f
 badField	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function badField(field, nestedProblems)$/;"	f
 badField	elm.js	/^function badField(field, nestedProblems)$/;"	f
+badIndex	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function badIndex(index, nestedProblems)$/;"	f
 badIndex	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function badIndex(index, nestedProblems)$/;"	f
 badIndex	elm.js	/^function badIndex(index, nestedProblems)$/;"	f
+badOneOf	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function badOneOf(problems)$/;"	f
 badOneOf	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function badOneOf(problems)$/;"	f
 badOneOf	elm.js	/^function badOneOf(problems)$/;"	f
+badPrimitive	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function badPrimitive(type, value)$/;"	f
 badPrimitive	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function badPrimitive(type, value)$/;"	f
 badPrimitive	elm.js	/^function badPrimitive(type, value)$/;"	f
+badToString	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function badToString(problem)$/;"	f
 badToString	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function badToString(problem)$/;"	f
 badToString	elm.js	/^function badToString(problem)$/;"	f
+batch	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function batch(list)$/;"	f
 batch	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function batch(list)$/;"	f
 batch	elm.js	/^function batch(list)$/;"	f
+botLeft	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function botLeft(a)$/;"	f
 botLeft	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function botLeft(a)$/;"	f
 botLeft	elm.js	/^function botLeft(a)$/;"	f
+botRight	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function botRight(a)$/;"	f
 botRight	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function botRight(a)$/;"	f
 botRight	elm.js	/^function botRight(a)$/;"	f
+calcToRemove	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function calcToRemove(a, b)$/;"	f
 calcToRemove	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function calcToRemove(a, b)$/;"	f
 calcToRemove	elm.js	/^function calcToRemove(a, b)$/;"	f
 callback	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^				ctor: '_Task_andThen',$/;"	p	class:process.stack
@@ -408,22 +464,30 @@ callback	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^				ct
 callback	elm.js	/^				ctor: '_Task_andThen',$/;"	p	class:process.stack
 callback	elm.js	/^				ctor: '_Task_onError',$/;"	p	class:process.stack
 caseInsensitive	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Regex.js	/^function caseInsensitive(re)$/;"	f	function:_elm_lang$core$Native_Regex
+checkPortName	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function checkPortName(name)$/;"	f
 checkPortName	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function checkPortName(name)$/;"	f
 checkPortName	elm.js	/^function checkPortName(name)$/;"	f
+chr	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function chr(c)$/;"	f
 chr	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function chr(c)$/;"	f
 chr	elm.js	/^function chr(c)$/;"	f
+clamp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function clamp(lo, hi, n)$/;"	f
 clamp	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function clamp(lo, hi, n)$/;"	f	function:_elm_lang$core$Native_Basics
 clamp	elm.js	/^function clamp(lo, hi, n)$/;"	f	function:_elm_lang$core$Native_Basics
 cmdMap	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^		tag: 'cmd',$/;"	p	class:effectManagers
 cmdMap	elm.js	/^		tag: 'cmd',$/;"	p	class:effectManagers
+cmp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function cmp(x, y)$/;"	f
 cmp	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function cmp(x, y)$/;"	f	function:_elm_lang$core$Native_Utils
 cmp	elm.js	/^function cmp(x, y)$/;"	f	function:_elm_lang$core$Native_Utils
+compare	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function compare(x, y)$/;"	f
 compare	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function compare(x, y)$/;"	f	function:_elm_lang$core$Native_Basics
 compare	elm.js	/^function compare(x, y)$/;"	f	function:_elm_lang$core$Native_Basics
+concat	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function concat(strs)$/;"	f
 concat	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function concat(strs)$/;"	f	function:_elm_lang$core$Native_String
 concat	elm.js	/^function concat(strs)$/;"	f	function:_elm_lang$core$Native_String
+cons	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function cons(chr, str)$/;"	f
 cons	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function cons(chr, str)$/;"	f	function:_elm_lang$core$Native_String
 cons	elm.js	/^function cons(chr, str)$/;"	f	function:_elm_lang$core$Native_String
+contains	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function contains(sub, str)$/;"	f
 contains	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Regex.js	/^function contains(re, string)$/;"	f	function:_elm_lang$core$Native_Regex
 contains	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function contains(sub, str)$/;"	f	function:_elm_lang$core$Native_String
 contains	elm.js	/^function contains(sub, str)$/;"	f	function:_elm_lang$core$Native_String
@@ -433,14 +497,19 @@ converter	elm.js	/^		cmdMap: outgoingPortMap,$/;"	p	class:effectManagers
 converter	elm.js	/^		subMap: incomingPortMap,$/;"	p	class:effectManagers
 count	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^var count = 0;$/;"	v
 count	elm.js	/^var count = 0;$/;"	v
+crash	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function crash(message)$/;"	f
+crash	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function crash(moduleName, region)$/;"	f
 crash	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Debug.js	/^function crash(message)$/;"	f	function:_elm_lang$core$Native_Debug
 crash	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function crash(moduleName, region)$/;"	f
 crash	elm.js	/^function crash(message)$/;"	f	function:_elm_lang$core$Native_Debug
 crash	elm.js	/^function crash(moduleName, region)$/;"	f
+crashCase	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function crashCase(moduleName, region, value)$/;"	f
 crashCase	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function crashCase(moduleName, region, value)$/;"	f
 crashCase	elm.js	/^function crashCase(moduleName, region, value)$/;"	f
+create	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function create(item, h)$/;"	f
 create	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function create(item, h)$/;"	f
 create	elm.js	/^function create(item, h)$/;"	f
+createNode	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function createNode(h, length)$/;"	f
 createNode	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function createNode(h, length)$/;"	f
 createNode	elm.js	/^function createNode(h, length)$/;"	f
 ctor	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^			var leaf = {$/;"	p	class:var.leaf
@@ -504,155 +573,222 @@ ctor	elm.js	/^var _elm_lang$virtual_dom$VirtualDom$Node = {ctor: 'Node'};$/;"	p	
 ctor	elm.js	/^var _elm_lang$virtual_dom$VirtualDom$Property = {ctor: 'Property'};$/;"	p	class:_elm_lang$virtual_dom$VirtualDom$Property
 ctor	elm.js	/^var _user$project$Main$Toggle = {ctor: 'Toggle'};$/;"	p	class:_user$project$Main$Toggle
 ctor	elm.js	/^var empty = {$/;"	p	class:_elm_lang$core$Native_Array.empty
+custom	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function custom(factList, model, impl)$/;"	f
 custom	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function custom(factList, model, impl)$/;"	f
 custom	elm.js	/^function custom(factList, model, impl)$/;"	f
+customAndThen	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function customAndThen(decoder, callback)$/;"	f
 customAndThen	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function customAndThen(decoder, callback)$/;"	f
 customAndThen	elm.js	/^function customAndThen(decoder, callback)$/;"	f
 data	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^			index: bIndex,$/;"	p	class:entry
 data	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^			index: index,$/;"	p	class:changes
 data	elm.js	/^			index: bIndex,$/;"	p	class:entry
 data	elm.js	/^			index: index,$/;"	p	class:changes
+decodeContainer	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeContainer(tag, decoder)$/;"	f
 decodeContainer	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeContainer(tag, decoder)$/;"	f
 decodeContainer	elm.js	/^function decodeContainer(tag, decoder)$/;"	f
+decodeField	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeField(field, decoder)$/;"	f
 decodeField	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeField(field, decoder)$/;"	f
 decodeField	elm.js	/^function decodeField(field, decoder)$/;"	f
+decodeKeyValuePairs	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeKeyValuePairs(decoder)$/;"	f
 decodeKeyValuePairs	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeKeyValuePairs(decoder)$/;"	f
 decodeKeyValuePairs	elm.js	/^function decodeKeyValuePairs(decoder)$/;"	f
+decodeNull	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeNull(value)$/;"	f
 decodeNull	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeNull(value)$/;"	f
 decodeNull	elm.js	/^function decodeNull(value)$/;"	f
+decodeObject	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeObject(f, decoders)$/;"	f
 decodeObject	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeObject(f, decoders)$/;"	f
 decodeObject	elm.js	/^function decodeObject(f, decoders)$/;"	f
+decodeObject1	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeObject1(f, d1)$/;"	f
 decodeObject1	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeObject1(f, d1)$/;"	f
 decodeObject1	elm.js	/^function decodeObject1(f, d1)$/;"	f
+decodeObject2	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeObject2(f, d1, d2)$/;"	f
 decodeObject2	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeObject2(f, d1, d2)$/;"	f
 decodeObject2	elm.js	/^function decodeObject2(f, d1, d2)$/;"	f
+decodeObject3	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeObject3(f, d1, d2, d3)$/;"	f
 decodeObject3	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeObject3(f, d1, d2, d3)$/;"	f
 decodeObject3	elm.js	/^function decodeObject3(f, d1, d2, d3)$/;"	f
+decodeObject4	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeObject4(f, d1, d2, d3, d4)$/;"	f
 decodeObject4	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeObject4(f, d1, d2, d3, d4)$/;"	f
 decodeObject4	elm.js	/^function decodeObject4(f, d1, d2, d3, d4)$/;"	f
+decodeObject5	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeObject5(f, d1, d2, d3, d4, d5)$/;"	f
 decodeObject5	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeObject5(f, d1, d2, d3, d4, d5)$/;"	f
 decodeObject5	elm.js	/^function decodeObject5(f, d1, d2, d3, d4, d5)$/;"	f
+decodeObject6	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeObject6(f, d1, d2, d3, d4, d5, d6)$/;"	f
 decodeObject6	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeObject6(f, d1, d2, d3, d4, d5, d6)$/;"	f
 decodeObject6	elm.js	/^function decodeObject6(f, d1, d2, d3, d4, d5, d6)$/;"	f
+decodeObject7	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeObject7(f, d1, d2, d3, d4, d5, d6, d7)$/;"	f
 decodeObject7	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeObject7(f, d1, d2, d3, d4, d5, d6, d7)$/;"	f
 decodeObject7	elm.js	/^function decodeObject7(f, d1, d2, d3, d4, d5, d6, d7)$/;"	f
+decodeObject8	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeObject8(f, d1, d2, d3, d4, d5, d6, d7, d8)$/;"	f
 decodeObject8	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeObject8(f, d1, d2, d3, d4, d5, d6, d7, d8)$/;"	f
 decodeObject8	elm.js	/^function decodeObject8(f, d1, d2, d3, d4, d5, d6, d7, d8)$/;"	f
+decodePrimitive	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodePrimitive(tag)$/;"	f
 decodePrimitive	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodePrimitive(tag)$/;"	f
 decodePrimitive	elm.js	/^function decodePrimitive(tag)$/;"	f
+decodeTuple	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeTuple(f, decoders)$/;"	f
 decodeTuple	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeTuple(f, decoders)$/;"	f
 decodeTuple	elm.js	/^function decodeTuple(f, decoders)$/;"	f
+decodeTuple1	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeTuple1(f, d1)$/;"	f
 decodeTuple1	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeTuple1(f, d1)$/;"	f
 decodeTuple1	elm.js	/^function decodeTuple1(f, d1)$/;"	f
+decodeTuple2	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeTuple2(f, d1, d2)$/;"	f
 decodeTuple2	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeTuple2(f, d1, d2)$/;"	f
 decodeTuple2	elm.js	/^function decodeTuple2(f, d1, d2)$/;"	f
+decodeTuple3	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeTuple3(f, d1, d2, d3)$/;"	f
 decodeTuple3	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeTuple3(f, d1, d2, d3)$/;"	f
 decodeTuple3	elm.js	/^function decodeTuple3(f, d1, d2, d3)$/;"	f
+decodeTuple4	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeTuple4(f, d1, d2, d3, d4)$/;"	f
 decodeTuple4	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeTuple4(f, d1, d2, d3, d4)$/;"	f
 decodeTuple4	elm.js	/^function decodeTuple4(f, d1, d2, d3, d4)$/;"	f
+decodeTuple5	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeTuple5(f, d1, d2, d3, d4, d5)$/;"	f
 decodeTuple5	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeTuple5(f, d1, d2, d3, d4, d5)$/;"	f
 decodeTuple5	elm.js	/^function decodeTuple5(f, d1, d2, d3, d4, d5)$/;"	f
+decodeTuple6	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeTuple6(f, d1, d2, d3, d4, d5, d6)$/;"	f
 decodeTuple6	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeTuple6(f, d1, d2, d3, d4, d5, d6)$/;"	f
 decodeTuple6	elm.js	/^function decodeTuple6(f, d1, d2, d3, d4, d5, d6)$/;"	f
+decodeTuple7	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeTuple7(f, d1, d2, d3, d4, d5, d6, d7)$/;"	f
 decodeTuple7	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeTuple7(f, d1, d2, d3, d4, d5, d6, d7)$/;"	f
 decodeTuple7	elm.js	/^function decodeTuple7(f, d1, d2, d3, d4, d5, d6, d7)$/;"	f
+decodeTuple8	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function decodeTuple8(f, d1, d2, d3, d4, d5, d6, d7, d8)$/;"	f
 decodeTuple8	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function decodeTuple8(f, d1, d2, d3, d4, d5, d6, d7, d8)$/;"	f
 decodeTuple8	elm.js	/^function decodeTuple8(f, d1, d2, d3, d4, d5, d6, d7, d8)$/;"	f
 decoders	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^			var decoders = decoder.decoders;$/;"	v
 decoders	elm.js	/^			var decoders = decoder.decoders;$/;"	v
+degrees	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function degrees(d)$/;"	f
 degrees	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function degrees(d)$/;"	f
 degrees	elm.js	/^function degrees(d)$/;"	f
+diff	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function diff(a, b)$/;"	f
 diff	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function diff(a, b)$/;"	f
 diff	elm.js	/^function diff(a, b)$/;"	f
+diffChildren	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function diffChildren(aParent, bParent, patches, rootIndex)$/;"	f
 diffChildren	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function diffChildren(aParent, bParent, patches, rootIndex)$/;"	f
 diffChildren	elm.js	/^function diffChildren(aParent, bParent, patches, rootIndex)$/;"	f
+diffFacts	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function diffFacts(a, b, category)$/;"	f
 diffFacts	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function diffFacts(a, b, category)$/;"	f
 diffFacts	elm.js	/^function diffFacts(a, b, category)$/;"	f
+diffHelp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function diffHelp(a, b, patches, index)$/;"	f
 diffHelp	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function diffHelp(a, b, patches, index)$/;"	f
 diffHelp	elm.js	/^function diffHelp(a, b, patches, index)$/;"	f
+diffKeyedChildren	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function diffKeyedChildren(aParent, bParent, patches, rootIndex)$/;"	f
 diffKeyedChildren	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function diffKeyedChildren(aParent, bParent, patches, rootIndex)$/;"	f
 diffKeyedChildren	elm.js	/^function diffKeyedChildren(aParent, bParent, patches, rootIndex)$/;"	f
+dispatchEffects	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function dispatchEffects(managers, cmdBag, subBag)$/;"	f
 dispatchEffects	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function dispatchEffects(managers, cmdBag, subBag)$/;"	f
 dispatchEffects	elm.js	/^function dispatchEffects(managers, cmdBag, subBag)$/;"	f
+div	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function div(a, b)$/;"	f
 div	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function div(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
 div	elm.js	/^function div(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
+dropLeft	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function dropLeft(n, str)$/;"	f
 dropLeft	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function dropLeft(n, str)$/;"	f	function:_elm_lang$core$Native_String
 dropLeft	elm.js	/^function dropLeft(n, str)$/;"	f	function:_elm_lang$core$Native_String
+dropRight	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function dropRight(n, str)$/;"	f
 dropRight	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function dropRight(n, str)$/;"	f	function:_elm_lang$core$Native_String
 dropRight	elm.js	/^function dropRight(n, str)$/;"	f	function:_elm_lang$core$Native_String
+dummyRenderer	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function dummyRenderer()$/;"	f
 dummyRenderer	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function dummyRenderer()$/;"	f
 dummyRenderer	elm.js	/^function dummyRenderer()$/;"	f
 effectManagers	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^var effectManagers = {};$/;"	v
 effectManagers	elm.js	/^var effectManagers = {};$/;"	v
 embed	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	object['embed'] = function embed(domNode, flags)$/;"	f
 embed	elm.js	/^	object['embed'] = function embed(domNode, flags)$/;"	f
+encode	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function encode(indentLevel, value)$/;"	f
 encode	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function encode(indentLevel, value)$/;"	f
 encode	elm.js	/^function encode(indentLevel, value)$/;"	f
+encodeObject	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function encodeObject(keyValuePairs)$/;"	f
 encodeObject	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function encodeObject(keyValuePairs)$/;"	f
 encodeObject	elm.js	/^function encodeObject(keyValuePairs)$/;"	f
+endsWith	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function endsWith(sub, str)$/;"	f
 endsWith	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function endsWith(sub, str)$/;"	f	function:_elm_lang$core$Native_String
 endsWith	elm.js	/^function endsWith(sub, str)$/;"	f	function:_elm_lang$core$Native_String
+enqueue	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function enqueue(msg)$/;"	f
+enqueue	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function enqueue(process)$/;"	f
 enqueue	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function enqueue(msg)$/;"	f	function:makeEmbedHelp
 enqueue	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function enqueue(process)$/;"	f
 enqueue	elm.js	/^	function enqueue(msg)$/;"	f	function:makeEmbedHelp
 enqueue	elm.js	/^function enqueue(process)$/;"	f
 entry	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^			patches: subPatches,$/;"	p	class:entry.data.data
 entry	elm.js	/^			patches: subPatches,$/;"	p	class:entry.data.data
+eq	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function eq(x, y)$/;"	f
 eq	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function eq(x, y)$/;"	f	function:_elm_lang$core$Native_Utils
 eq	elm.js	/^function eq(x, y)$/;"	f	function:_elm_lang$core$Native_Utils
+eqHelp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function eqHelp(x, y, depth, stack)$/;"	f
 eqHelp	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function eqHelp(x, y, depth, stack)$/;"	f	function:_elm_lang$core$Native_Utils
 eqHelp	elm.js	/^function eqHelp(x, y, depth, stack)$/;"	f	function:_elm_lang$core$Native_Utils
+equalEvents	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function equalEvents(a, b)$/;"	f
 equalEvents	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function equalEvents(a, b)$/;"	f
 equalEvents	elm.js	/^function equalEvents(a, b)$/;"	f
+equality	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function equality(a, b)$/;"	f
 equality	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function equality(a, b)$/;"	f
 equality	elm.js	/^function equality(a, b)$/;"	f
+errorHtml	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function errorHtml(message)$/;"	f
 errorHtml	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function errorHtml(message)$/;"	f
 errorHtml	elm.js	/^function errorHtml(message)$/;"	f
 escape	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Regex.js	/^function escape(str)$/;"	f	function:_elm_lang$core$Native_Regex
+eventHandler	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function eventHandler(event)$/;"	f
 eventHandler	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^	function eventHandler(event)$/;"	f	function:makeEventHandler
 eventHandler	elm.js	/^	function eventHandler(event)$/;"	f	function:makeEventHandler
 factsDiff	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^			var factsDiff = diffFacts(a.facts, b.facts);$/;"	v
 factsDiff	elm.js	/^			var factsDiff = diffFacts(a.facts, b.facts);$/;"	v
+fail	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function fail(error)$/;"	f
+fail	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function fail(msg)$/;"	f
 fail	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function fail(msg)$/;"	f
 fail	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function fail(error)$/;"	f
 fail	elm.js	/^function fail(error)$/;"	f
+filter	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function filter(pred, str)$/;"	f
 filter	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function filter(pred, str)$/;"	f	function:_elm_lang$core$Native_String
 filter	elm.js	/^function filter(pred, str)$/;"	f	function:_elm_lang$core$Native_String
 find	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Regex.js	/^function find(n, re, str)$/;"	f	function:_elm_lang$core$Native_Regex
+foldl	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function foldl(f, b, a)$/;"	f
+foldl	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function foldl(f, b, str)$/;"	f
 foldl	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function foldl(f, b, a)$/;"	f
 foldl	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function foldl(f, b, str)$/;"	f	function:_elm_lang$core$Native_String
 foldl	elm.js	/^function foldl(f, b, a)$/;"	f
 foldl	elm.js	/^function foldl(f, b, str)$/;"	f	function:_elm_lang$core$Native_String
+foldr	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function foldr(f, b, a)$/;"	f
+foldr	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function foldr(f, b, str)$/;"	f
+foldr	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function foldr(f, b, xs)$/;"	f
 foldr	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function foldr(f, b, a)$/;"	f
 foldr	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function foldr(f, b, xs)$/;"	f
 foldr	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function foldr(f, b, str)$/;"	f	function:_elm_lang$core$Native_String
 foldr	elm.js	/^function foldr(f, b, a)$/;"	f
 foldr	elm.js	/^function foldr(f, b, str)$/;"	f	function:_elm_lang$core$Native_String
+fromArray	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function fromArray(arr)$/;"	f
 fromArray	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function fromArray(arr)$/;"	f
 fromArray	elm.js	/^function fromArray(arr)$/;"	f
+fromJSArray	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function fromJSArray(jsArray)$/;"	f
 fromJSArray	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function fromJSArray(jsArray)$/;"	f
 fromJSArray	elm.js	/^function fromJSArray(jsArray)$/;"	f
+fromJSArray_	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function fromJSArray_(jsArray, h, from, to)$/;"	f
 fromJSArray_	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function fromJSArray_(jsArray, h, from, to)$/;"	f
 fromJSArray_	elm.js	/^function fromJSArray_(jsArray, h, from, to)$/;"	f
+fromList	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function fromList(chars)$/;"	f
+fromList	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function fromList(list)$/;"	f
 fromList	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function fromList(list)$/;"	f
 fromList	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function fromList(chars)$/;"	f	function:_elm_lang$core$Native_String
 fromList	elm.js	/^function fromList(chars)$/;"	f	function:_elm_lang$core$Native_String
 fromList	elm.js	/^function fromList(list)$/;"	f
+fromListPush	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function fromListPush(toPush, nodes)$/;"	f
 fromListPush	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function fromListPush(toPush, nodes)$/;"	f
 fromListPush	elm.js	/^function fromListPush(toPush, nodes)$/;"	f
+fromPolar	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function fromPolar(point)$/;"	f
 fromPolar	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function fromPolar(point)$/;"	f
 fromPolar	elm.js	/^function fromPolar(point)$/;"	f
 fromString	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Date.js	/^function fromString(str)$/;"	f	function:_elm_lang$core$Native_Date
 fullscreen	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	object['fullscreen'] = function fullscreen(flags)$/;"	f
 fullscreen	elm.js	/^	object['fullscreen'] = function fullscreen(flags)$/;"	f
+gatherEffects	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function gatherEffects(isCmd, bag, effectsDict, taggers)$/;"	f
 gatherEffects	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function gatherEffects(isCmd, bag, effectsDict, taggers)$/;"	f
 gatherEffects	elm.js	/^function gatherEffects(isCmd, bag, effectsDict, taggers)$/;"	f
+get	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function get(i, array)$/;"	f
 get	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function get(i, array)$/;"	f	function:_elm_lang$core$Native_Array
 get	elm.js	/^function get(i, array)$/;"	f	function:_elm_lang$core$Native_Array
+get2	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function get2(a, b, index)$/;"	f
 get2	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function get2(a, b, index)$/;"	f
 get2	elm.js	/^function get2(a, b, index)$/;"	f
+getSlot	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function getSlot(i, a)$/;"	f
 getSlot	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function getSlot(i, a)$/;"	f
 getSlot	elm.js	/^function getSlot(i, a)$/;"	f
+guid	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function guid(_)$/;"	f
 guid	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function guid(_)$/;"	f
 guid	elm.js	/^function guid(_)$/;"	f
 height	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^				ctor: '_Array',$/;"	p	class:var.leaf
@@ -683,8 +819,10 @@ height	elm.js	/^		var newA = { ctor:'_Array', height:0 };$/;"	p	class:var.newA
 height	elm.js	/^	ctor: '_Array',$/;"	p	class:_elm_lang$core$Native_Array.empty
 id	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^		ctor: '_Process',$/;"	p	class:rawSpawn.process
 id	elm.js	/^		ctor: '_Process',$/;"	p	class:rawSpawn.process
+identity	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function identity(value)$/;"	f
 identity	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function identity(value)$/;"	f
 identity	elm.js	/^function identity(value)$/;"	f
+incomingPort	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function incomingPort(name, converter)$/;"	f
 incomingPort	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function incomingPort(name, converter)$/;"	f
 incomingPort	elm.js	/^function incomingPort(name, converter)$/;"	f
 incomingPortMap	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^var incomingPortMap = F2(function subMap(tagger, finalTagger)$/;"	v
@@ -692,279 +830,399 @@ index	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^	
 index	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^			vnode: vnode,$/;"	p	class:entry
 index	elm.js	/^			vnode: vnode,$/;"	p	class:changes
 index	elm.js	/^			vnode: vnode,$/;"	p	class:entry
+indexedMap	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function indexedMap(f, a)$/;"	f
 indexedMap	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function indexedMap(f, a)$/;"	f
 indexedMap	elm.js	/^function indexedMap(f, a)$/;"	f
+indexedMap_	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function indexedMap_(f, a, from)$/;"	f
 indexedMap_	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function indexedMap_(f, a, from)$/;"	f
 indexedMap_	elm.js	/^function indexedMap_(f, a, from)$/;"	f
+indexes	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function indexes(sub, str)$/;"	f
 indexes	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function indexes(sub, str)$/;"	f	function:_elm_lang$core$Native_String
 indexes	elm.js	/^function indexes(sub, str)$/;"	f	function:_elm_lang$core$Native_String
+initWithFlags	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function initWithFlags(moduleName, realInit, flagDecoder)$/;"	f
 initWithFlags	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function initWithFlags(moduleName, realInit, flagDecoder)$/;"	f
 initWithFlags	elm.js	/^function initWithFlags(moduleName, realInit, flagDecoder)$/;"	f
+initWithoutFlags	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function initWithoutFlags(moduleName, realInit)$/;"	f
 initWithoutFlags	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function initWithoutFlags(moduleName, realInit)$/;"	f
 initWithoutFlags	elm.js	/^function initWithoutFlags(moduleName, realInit)$/;"	f
+initialize	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function initialize(len, f)$/;"	f
 initialize	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function initialize(len, f)$/;"	f	function:_elm_lang$core$Native_Array
 initialize	elm.js	/^function initialize(len, f)$/;"	f	function:_elm_lang$core$Native_Array
+initialize_	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function initialize_(f, h, from, to)$/;"	f
 initialize_	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function initialize_(f, h, from, to)$/;"	f	function:_elm_lang$core$Native_Array
 initialize_	elm.js	/^function initialize_(f, h, from, to)$/;"	f	function:_elm_lang$core$Native_Array
+insert	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function insert(isCmd, newEffect, effects)$/;"	f
 insert	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function insert(isCmd, newEffect, effects)$/;"	f
 insert	elm.js	/^function insert(isCmd, newEffect, effects)$/;"	f
+insertLeft	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function insertLeft(parent, node)$/;"	f
 insertLeft	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function insertLeft(parent, node)$/;"	f
 insertLeft	elm.js	/^function insertLeft(parent, node)$/;"	f
+insertNode	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function insertNode(changes, localPatches, key, vnode, bIndex, inserts)$/;"	f
 insertNode	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function insertNode(changes, localPatches, key, vnode, bIndex, inserts)$/;"	f
 insertNode	elm.js	/^function insertNode(changes, localPatches, key, vnode, bIndex, inserts)$/;"	f
+insertRight	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function insertRight(parent, node)$/;"	f
 insertRight	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function insertRight(parent, node)$/;"	f
 insertRight	elm.js	/^function insertRight(parent, node)$/;"	f
+isEmpty	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function isEmpty(str)$/;"	f
 isEmpty	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function isEmpty(str)$/;"	f	function:_elm_lang$core$Native_String
 isEmpty	elm.js	/^function isEmpty(str)$/;"	f	function:_elm_lang$core$Native_String
 isForeign	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^		converter: converter,$/;"	p	class:effectManagers
 isForeign	elm.js	/^		converter: converter,$/;"	p	class:effectManagers
+isInfinite	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function isInfinite(n)$/;"	f
 isInfinite	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function isInfinite(n)$/;"	f
 isInfinite	elm.js	/^function isInfinite(n)$/;"	f
+join	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function join(sep, strs)$/;"	f
 join	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function join(sep, strs)$/;"	f	function:_elm_lang$core$Native_String
 join	elm.js	/^function join(sep, strs)$/;"	f	function:_elm_lang$core$Native_String
 jsReplacer	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Regex.js	/^	function jsReplacer(match)$/;"	f	function:replace
+jsToString	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function jsToString(value)$/;"	f
 jsToString	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function jsToString(value)$/;"	f
 jsToString	elm.js	/^function jsToString(value)$/;"	f
 keyValuePairs	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^			var keyValuePairs = _elm_lang$core$Native_List.Nil;$/;"	v
+keyedNode	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function keyedNode(tag, factList, kidList)$/;"	f
 keyedNode	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function keyedNode(tag, factList, kidList)$/;"	f
 keyedNode	elm.js	/^function keyedNode(tag, factList, kidList)$/;"	f
+kill	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function kill(process)$/;"	f
 kill	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function kill(process)$/;"	f
 kill	elm.js	/^function kill(process)$/;"	f
+lazy	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function lazy(fn, a)$/;"	f
 lazy	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function lazy(fn, a)$/;"	f
 lazy	elm.js	/^function lazy(fn, a)$/;"	f
+lazy2	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function lazy2(fn, a, b)$/;"	f
 lazy2	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function lazy2(fn, a, b)$/;"	f
 lazy2	elm.js	/^function lazy2(fn, a, b)$/;"	f
+lazy3	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function lazy3(fn, a, b, c)$/;"	f
 lazy3	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function lazy3(fn, a, b, c)$/;"	f
 lazy3	elm.js	/^function lazy3(fn, a, b, c)$/;"	f
+leaf	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function leaf(home)$/;"	f
 leaf	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function leaf(home)$/;"	f
 leaf	elm.js	/^function leaf(home)$/;"	f
+left	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function left(n, str)$/;"	f
 left	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function left(n, str)$/;"	f	function:_elm_lang$core$Native_String
 left	elm.js	/^function left(n, str)$/;"	f	function:_elm_lang$core$Native_String
 len	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^			var len = decoders.length;$/;"	v
 len	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^			var len = value.length;$/;"	v
 len	elm.js	/^			var len = decoders.length;$/;"	v
 len	elm.js	/^			var len = value.length;$/;"	v
+length	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function length(array)$/;"	f
+length	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function length(str)$/;"	f
 length	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function length(array)$/;"	f
 length	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function length(str)$/;"	f	function:_elm_lang$core$Native_String
 length	elm.js	/^function length(array)$/;"	f
 length	elm.js	/^function length(str)$/;"	f	function:_elm_lang$core$Native_String
+lines	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function lines(str)$/;"	f
 lines	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function lines(str)$/;"	f	function:_elm_lang$core$Native_String
 lines	elm.js	/^function lines(str)$/;"	f	function:_elm_lang$core$Native_String
 list	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^			var list = _elm_lang$core$Native_List.Nil;$/;"	v
+listEquality	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function listEquality(aDecoders, bDecoders)$/;"	f
 listEquality	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function listEquality(aDecoders, bDecoders)$/;"	f
 listEquality	elm.js	/^function listEquality(aDecoders, bDecoders)$/;"	f
+log	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function log(tag, value)$/;"	f
 log	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Debug.js	/^function log(tag, value)$/;"	f	function:_elm_lang$core$Native_Debug
 log	elm.js	/^function log(tag, value)$/;"	f	function:_elm_lang$core$Native_Debug
+logBase	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function logBase(base, n)$/;"	f
 logBase	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function logBase(base, n)$/;"	f	function:_elm_lang$core$Native_Basics
 logBase	elm.js	/^function logBase(base, n)$/;"	f	function:_elm_lang$core$Native_Basics
+loop	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function loop(state)$/;"	f
 loop	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function loop(state)$/;"	f	function:spawnLoop
 loop	elm.js	/^	function loop(state)$/;"	f	function:spawnLoop
 main	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	var router = {$/;"	p	class:makeManager.router
 main	elm.js	/^	var router = {$/;"	p	class:makeManager.router
 main	elm.js	/^var _user$project$Main$main = {$/;"	p	class:_user$project$Main$main
+mainIsUndefined	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function mainIsUndefined(name)$/;"	f
 mainIsUndefined	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function mainIsUndefined(name)$/;"	f	function:_elm_lang$core$Native_Platform
 mainIsUndefined	elm.js	/^function mainIsUndefined(name)$/;"	f	function:_elm_lang$core$Native_Platform
+mainToProgram	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function mainToProgram(moduleName, wrappedMain)$/;"	f
 mainToProgram	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function mainToProgram(moduleName, wrappedMain)$/;"	f
 mainToProgram	elm.js	/^function mainToProgram(moduleName, wrappedMain)$/;"	f
+makeEmbed	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function makeEmbed(moduleName, main)$/;"	f
 makeEmbed	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function makeEmbed(moduleName, main)$/;"	f
 makeEmbed	elm.js	/^function makeEmbed(moduleName, main)$/;"	f
+makeEmbedHelp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function makeEmbedHelp(moduleName, program, rootDomNode, flags)$/;"	f
 makeEmbedHelp	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function makeEmbedHelp(moduleName, program, rootDomNode, flags)$/;"	f
 makeEmbedHelp	elm.js	/^function makeEmbedHelp(moduleName, program, rootDomNode, flags)$/;"	f
+makeEventHandler	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function makeEventHandler(eventNode, info)$/;"	f
 makeEventHandler	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function makeEventHandler(eventNode, info)$/;"	f
 makeEventHandler	elm.js	/^function makeEventHandler(eventNode, info)$/;"	f
+makeManager	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function makeManager(info, callback)$/;"	f
 makeManager	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function makeManager(info, callback)$/;"	f
 makeManager	elm.js	/^function makeManager(info, callback)$/;"	f
+makePatch	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function makePatch(type, index, data)$/;"	f
 makePatch	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function makePatch(type, index, data)$/;"	f
 makePatch	elm.js	/^function makePatch(type, index, data)$/;"	f
+map	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function map(f, a)$/;"	f
+map	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function map(f, str)$/;"	f
+map	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function map(tagger, bag)$/;"	f
+map	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function map(tagger, node)$/;"	f
 map	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function map(f, a)$/;"	f
 map	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function map(tagger, bag)$/;"	f
 map	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function map(f, str)$/;"	f	function:_elm_lang$core$Native_String
 map	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function map(tagger, node)$/;"	f
 map	elm.js	/^function map(f, a)$/;"	f
 map	elm.js	/^function map(f, str)$/;"	f	function:_elm_lang$core$Native_String
+map2	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function map2(f, xs, ys)$/;"	f
 map2	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function map2(f, xs, ys)$/;"	f
 map2	elm.js	/^function map2(f, xs, ys)$/;"	f
+map3	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function map3(f, xs, ys, zs)$/;"	f
 map3	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function map3(f, xs, ys, zs)$/;"	f
 map3	elm.js	/^function map3(f, xs, ys, zs)$/;"	f
+map4	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function map4(f, ws, xs, ys, zs)$/;"	f
 map4	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function map4(f, ws, xs, ys, zs)$/;"	f
 map4	elm.js	/^function map4(f, ws, xs, ys, zs)$/;"	f
+map5	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function map5(f, vs, ws, xs, ys, zs)$/;"	f
 map5	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function map5(f, vs, ws, xs, ys, zs)$/;"	f
 map5	elm.js	/^function map5(f, vs, ws, xs, ys, zs)$/;"	f
+max	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function max(a, b)$/;"	f
 max	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function max(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
 max	elm.js	/^function max(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
+min	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function min(a, b)$/;"	f
 min	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function min(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
 min	elm.js	/^function min(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
+mod	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function mod(a, b)$/;"	f
 mod	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function mod(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
 mod	elm.js	/^function mod(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
+nativeBinding	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function nativeBinding(callback)$/;"	f
 nativeBinding	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function nativeBinding(callback)$/;"	f
 nativeBinding	elm.js	/^function nativeBinding(callback)$/;"	f
+negate	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function negate(n)$/;"	f
 negate	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function negate(n)$/;"	f	function:_elm_lang$core$Native_Basics
 negate	elm.js	/^function negate(n)$/;"	f	function:_elm_lang$core$Native_Basics
+node	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function node(tag)$/;"	f
 node	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function node(tag)$/;"	f
 node	elm.js	/^function node(tag)$/;"	f
+nodeCopy	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function nodeCopy(a)$/;"	f
 nodeCopy	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function nodeCopy(a)$/;"	f
 nodeCopy	elm.js	/^function nodeCopy(a)$/;"	f
+nodeHelp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function nodeHelp(tag, factList, kidList)$/;"	f
 nodeHelp	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function nodeHelp(tag, factList, kidList)$/;"	f
 nodeHelp	elm.js	/^function nodeHelp(tag, factList, kidList)$/;"	f
+not	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function not(b)$/;"	f
 not	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function not(b)$/;"	f
 not	elm.js	/^function not(b)$/;"	f
 object	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	var init = main ? makeEmbed(name, main) : mainIsUndefined(name);$/;"	f	function:_elm_lang$core$Native_Platform
 object	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	}$/;"	f
 object	elm.js	/^	var init = main ? makeEmbed(name, main) : mainIsUndefined(name);$/;"	f	function:_elm_lang$core$Native_Platform
 object	elm.js	/^	}$/;"	f
+ok	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function ok(value)$/;"	f
 ok	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function ok(value)$/;"	f
 ok	elm.js	/^function ok(value)$/;"	f
+on	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function on(name, options, decoder)$/;"	f
 on	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function on(name, options, decoder)$/;"	f
 on	elm.js	/^function on(name, options, decoder)$/;"	f
+onEffects	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function onEffects(router, cmdList, state)$/;"	f
+onEffects	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function onEffects(router, subList, state)$/;"	f
 onEffects	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function onEffects(router, cmdList, state)$/;"	f	function:setupOutgoingPort
 onEffects	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function onEffects(router, subList, state)$/;"	f	function:setupIncomingPort
 onEffects	elm.js	/^	function onEffects(router, cmdList, state)$/;"	f	function:setupOutgoingPort
 onEffects	elm.js	/^	function onEffects(router, subList, state)$/;"	f	function:setupIncomingPort
+onError	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function onError(task, callback)$/;"	f
 onError	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function onError(task, callback)$/;"	f
 onError	elm.js	/^function onError(task, callback)$/;"	f
+onMessage	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function onMessage(msg, model)$/;"	f
+onMessage	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function onMessage(msg, state)$/;"	f
 onMessage	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function onMessage(msg, model)$/;"	f	function:makeEmbedHelp
 onMessage	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function onMessage(msg, state)$/;"	f	function:makeManager
 onMessage	elm.js	/^	function onMessage(msg, model)$/;"	f	function:makeEmbedHelp
 onMessage	elm.js	/^	function onMessage(msg, state)$/;"	f	function:makeManager
+oneOf	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function oneOf(decoders)$/;"	f
 oneOf	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function oneOf(decoders)$/;"	f
 oneOf	elm.js	/^function oneOf(decoders)$/;"	f
+organizeFacts	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function organizeFacts(factList)$/;"	f
 organizeFacts	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function organizeFacts(factList)$/;"	f
 organizeFacts	elm.js	/^function organizeFacts(factList)$/;"	f
+outgoingPort	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function outgoingPort(name, converter)$/;"	f
 outgoingPort	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function outgoingPort(name, converter)$/;"	f
 outgoingPort	elm.js	/^function outgoingPort(name, converter)$/;"	f
 outgoingPortMap	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^var outgoingPortMap = F2(function cmdMap(tagger, value) {$/;"	v
+pad	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function pad(n, chr, str)$/;"	f
 pad	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function pad(n, chr, str)$/;"	f	function:_elm_lang$core$Native_String
 pad	elm.js	/^function pad(n, chr, str)$/;"	f	function:_elm_lang$core$Native_String
+padLeft	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function padLeft(n, chr, str)$/;"	f
 padLeft	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function padLeft(n, chr, str)$/;"	f	function:_elm_lang$core$Native_String
 padLeft	elm.js	/^function padLeft(n, chr, str)$/;"	f	function:_elm_lang$core$Native_String
+padRight	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function padRight(n, chr, str)$/;"	f
 padRight	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function padRight(n, chr, str)$/;"	f	function:_elm_lang$core$Native_String
 padRight	elm.js	/^function padRight(n, chr, str)$/;"	f	function:_elm_lang$core$Native_String
+pairwiseRefEqual	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function pairwiseRefEqual(as, bs)$/;"	f
 pairwiseRefEqual	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function pairwiseRefEqual(as, bs)$/;"	f
 pairwiseRefEqual	elm.js	/^function pairwiseRefEqual(as, bs)$/;"	f
 parent	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^				tagger: tagger,$/;"	p	class:render.subEventRoot
 parent	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^	var eventNode = { tagger: tagger, parent: undefined };$/;"	p	class:renderer.eventNode
 parent	elm.js	/^				tagger: tagger,$/;"	p	class:render.subEventRoot
 parent	elm.js	/^	var eventNode = { tagger: tagger, parent: undefined };$/;"	p	class:renderer.eventNode
+parentise	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function parentise(tree, h)$/;"	f
 parentise	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function parentise(tree, h)$/;"	f
 parentise	elm.js	/^function parentise(tree, h)$/;"	f
 patch	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^			var patch = b.impl.diff(a,b);$/;"	v
 patch	elm.js	/^			var patch = b.impl.diff(a,b);$/;"	v
 patches	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^		entry.data.data = {$/;"	p	class:entry.data.data
 patches	elm.js	/^		entry.data.data = {$/;"	p	class:entry.data.data
+postInitOnEffects	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function postInitOnEffects(router, subList, state)$/;"	f
 postInitOnEffects	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function postInitOnEffects(router, subList, state)$/;"	f	function:setupIncomingPort
 postInitOnEffects	elm.js	/^	function postInitOnEffects(router, subList, state)$/;"	f	function:setupIncomingPort
+postInitSend	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function postInitSend(incomingValue)$/;"	f
 postInitSend	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function postInitSend(incomingValue)$/;"	f	function:setupIncomingPort
 postInitSend	elm.js	/^	function postInitSend(incomingValue)$/;"	f	function:setupIncomingPort
+preInitOnEffects	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function preInitOnEffects(router, subList, state)$/;"	f
 preInitOnEffects	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function preInitOnEffects(router, subList, state)$/;"	f	function:setupIncomingPort
 preInitOnEffects	elm.js	/^	function preInitOnEffects(router, subList, state)$/;"	f	function:setupIncomingPort
+preInitSend	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function preInitSend(value)$/;"	f
 preInitSend	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function preInitSend(value)$/;"	f	function:setupIncomingPort
 preInitSend	elm.js	/^	function preInitSend(value)$/;"	f	function:setupIncomingPort
 preventDefault	elm.js	/^var _elm_lang$virtual_dom$VirtualDom$defaultOptions = {stopPropagation: false, preventDefault: false};$/;"	p	class:_elm_lang$virtual_dom$VirtualDom$defaultOptions
+programWithFlags	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function programWithFlags(details)$/;"	f
 programWithFlags	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function programWithFlags(details)$/;"	f
 programWithFlags	elm.js	/^function programWithFlags(details)$/;"	f
+property	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function property(key, value)$/;"	f
 property	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function property(key, value)$/;"	f
 property	elm.js	/^function property(key, value)$/;"	f
+push	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function push(item, a)$/;"	f
 push	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function push(item, a)$/;"	f
 push	elm.js	/^function push(item, a)$/;"	f
+push_	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function push_(item, a)$/;"	f
 push_	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function push_(item, a)$/;"	f
 push_	elm.js	/^function push_(item, a)$/;"	f
+range	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function range(lo, hi)$/;"	f
 range	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function range(lo, hi)$/;"	f
 range	elm.js	/^function range(lo, hi)$/;"	f
+rawSend	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function rawSend(process, msg)$/;"	f
 rawSend	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function rawSend(process, msg)$/;"	f
 rawSend	elm.js	/^function rawSend(process, msg)$/;"	f
+rawSpawn	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function rawSpawn(task)$/;"	f
 rawSpawn	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function rawSpawn(task)$/;"	f
 rawSpawn	elm.js	/^function rawSpawn(task)$/;"	f
 realResult	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^			var realResult = decoder.callback(result.value);$/;"	v
 realResult	elm.js	/^			var realResult = decoder.callback(result.value);$/;"	v
+receive	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function receive(callback)$/;"	f
 receive	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function receive(callback)$/;"	f
 receive	elm.js	/^function receive(callback)$/;"	f
 regex	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Regex.js	/^function regex(raw)$/;"	f	function:_elm_lang$core$Native_Regex
+regionToString	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function regionToString(region)$/;"	f
 regionToString	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function regionToString(region)$/;"	f
 regionToString	elm.js	/^function regionToString(region)$/;"	f
+registerVirtualNode	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function registerVirtualNode(vNode)$/;"	f
 registerVirtualNode	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^	function registerVirtualNode(vNode)$/;"	f	function:renderer
 registerVirtualNode	elm.js	/^	function registerVirtualNode(vNode)$/;"	f	function:renderer
+rem	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function rem(a, b)$/;"	f
 rem	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function rem(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
 rem	elm.js	/^function rem(a, b)$/;"	f	function:_elm_lang$core$Native_Basics
+removeNode	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function removeNode(changes, localPatches, key, vnode, index)$/;"	f
 removeNode	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function removeNode(changes, localPatches, key, vnode, index)$/;"	f
 removeNode	elm.js	/^function removeNode(changes, localPatches, key, vnode, index)$/;"	f
+render	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function render(vNode, eventNode)$/;"	f
 render	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function render(vNode, eventNode)$/;"	f
 render	elm.js	/^function render(vNode, eventNode)$/;"	f
+renderer	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function renderer(parent, tagger, initialVirtualNode)$/;"	f
 renderer	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function renderer(parent, tagger, initialVirtualNode)$/;"	f
 renderer	elm.js	/^function renderer(parent, tagger, initialVirtualNode)$/;"	f
+repeat	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function repeat(n, str)$/;"	f
 repeat	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function repeat(n, str)$/;"	f	function:_elm_lang$core$Native_String
 repeat	elm.js	/^function repeat(n, str)$/;"	f	function:_elm_lang$core$Native_String
 replace	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Regex.js	/^function replace(n, re, replacer, string)$/;"	f	function:_elm_lang$core$Native_Regex
+reverse	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function reverse(str)$/;"	f
 reverse	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function reverse(str)$/;"	f	function:_elm_lang$core$Native_String
 reverse	elm.js	/^function reverse(str)$/;"	f	function:_elm_lang$core$Native_String
+right	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function right(n, str)$/;"	f
 right	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function right(n, str)$/;"	f	function:_elm_lang$core$Native_String
 right	elm.js	/^function right(n, str)$/;"	f	function:_elm_lang$core$Native_String
+run	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function run(decoder, value)$/;"	f
 run	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function run(decoder, value)$/;"	f
 run	elm.js	/^function run(decoder, value)$/;"	f
+runHelp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function runHelp(decoder, value)$/;"	f
 runHelp	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function runHelp(decoder, value)$/;"	f
 runHelp	elm.js	/^function runHelp(decoder, value)$/;"	f
+runOnString	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function runOnString(decoder, string)$/;"	f
 runOnString	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function runOnString(decoder, string)$/;"	f
 runOnString	elm.js	/^function runOnString(decoder, string)$/;"	f
+saveSlot	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function saveSlot(a, b, index, slot)$/;"	f
 saveSlot	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function saveSlot(a, b, index, slot)$/;"	f
 saveSlot	elm.js	/^function saveSlot(a, b, index, slot)$/;"	f
 self	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^		main: callback,$/;"	p	class:makeManager.router
 self	elm.js	/^		main: callback,$/;"	p	class:makeManager.router
+send	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function send(incomingValue)$/;"	f
+send	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function send(process, msg)$/;"	f
 send	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function send(incomingValue)$/;"	f	function:setupIncomingPort
 send	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function send(process, msg)$/;"	f
 send	elm.js	/^	function send(incomingValue)$/;"	f	function:setupIncomingPort
 send	elm.js	/^function send(process, msg)$/;"	f
+sendToApp	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function sendToApp(router, msg)$/;"	f
 sendToApp	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function sendToApp(router, msg)$/;"	f
 sendToApp	elm.js	/^function sendToApp(router, msg)$/;"	f
+sendToSelf	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function sendToSelf(router, msg)$/;"	f
 sendToSelf	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function sendToSelf(router, msg)$/;"	f
 sendToSelf	elm.js	/^function sendToSelf(router, msg)$/;"	f
+set	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function set(i, item, array)$/;"	f
 set	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function set(i, item, array)$/;"	f	function:_elm_lang$core$Native_Array
 set	elm.js	/^function set(i, item, array)$/;"	f	function:_elm_lang$core$Native_Array
+set2	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function set2(a, b, index, value)$/;"	f
 set2	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function set2(a, b, index, value)$/;"	f
 set2	elm.js	/^function set2(a, b, index, value)$/;"	f
 setInterval_	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Time.js	/^function setInterval_(interval, task)$/;"	f	function:_elm_lang$core$Native_Time
+setupEffects	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function setupEffects(managers, callback)$/;"	f
 setupEffects	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function setupEffects(managers, callback)$/;"	f
 setupEffects	elm.js	/^function setupEffects(managers, callback)$/;"	f
+setupIncomingPort	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function setupIncomingPort(name, callback)$/;"	f
 setupIncomingPort	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function setupIncomingPort(name, callback)$/;"	f
 setupIncomingPort	elm.js	/^function setupIncomingPort(name, callback)$/;"	f
+setupOutgoingPort	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function setupOutgoingPort(name)$/;"	f
 setupOutgoingPort	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function setupOutgoingPort(name)$/;"	f
 setupOutgoingPort	elm.js	/^function setupOutgoingPort(name)$/;"	f
+shuffle	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function shuffle(a, b, toRemove)$/;"	f
 shuffle	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function shuffle(a, b, toRemove)$/;"	f
 shuffle	elm.js	/^function shuffle(a, b, toRemove)$/;"	f
+siblise	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function siblise(a, b)$/;"	f
 siblise	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function siblise(a, b)$/;"	f
 siblise	elm.js	/^function siblise(a, b)$/;"	f
+sleep	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function sleep(time)$/;"	f
 sleep	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function sleep(time)$/;"	f
 sleep	elm.js	/^function sleep(time)$/;"	f
+slice	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function slice(from, to, a)$/;"	f
+slice	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function slice(start, end, str)$/;"	f
 slice	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function slice(from, to, a)$/;"	f
 slice	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function slice(start, end, str)$/;"	f	function:_elm_lang$core$Native_String
 slice	elm.js	/^function slice(from, to, a)$/;"	f
 slice	elm.js	/^function slice(start, end, str)$/;"	f	function:_elm_lang$core$Native_String
+sliceLeft	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function sliceLeft(from, a)$/;"	f
 sliceLeft	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function sliceLeft(from, a)$/;"	f
 sliceLeft	elm.js	/^function sliceLeft(from, a)$/;"	f
+sliceRight	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function sliceRight(to, a)$/;"	f
 sliceRight	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function sliceRight(to, a)$/;"	f
 sliceRight	elm.js	/^function sliceRight(to, a)$/;"	f
+sortBy	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function sortBy(f, xs)$/;"	f
 sortBy	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function sortBy(f, xs)$/;"	f
 sortBy	elm.js	/^function sortBy(f, xs)$/;"	f
+sortWith	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function sortWith(f, xs)$/;"	f
 sortWith	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function sortWith(f, xs)$/;"	f
 sortWith	elm.js	/^function sortWith(f, xs)$/;"	f
+spawn	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function spawn(task)$/;"	f
 spawn	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function spawn(task)$/;"	f
 spawn	elm.js	/^function spawn(task)$/;"	f
+spawnLoop	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function spawnLoop(init, onMessage)$/;"	f
 spawnLoop	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function spawnLoop(init, onMessage)$/;"	f
 spawnLoop	elm.js	/^function spawnLoop(init, onMessage)$/;"	f
+split	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function split(sep, str)$/;"	f
 split	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Regex.js	/^function split(n, re, str)$/;"	f	function:_elm_lang$core$Native_Regex
 split	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function split(sep, str)$/;"	f	function:_elm_lang$core$Native_String
 split	elm.js	/^function split(sep, str)$/;"	f	function:_elm_lang$core$Native_String
+startsWith	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function startsWith(sub, str)$/;"	f
 startsWith	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function startsWith(sub, str)$/;"	f	function:_elm_lang$core$Native_String
 startsWith	elm.js	/^function startsWith(sub, str)$/;"	f	function:_elm_lang$core$Native_String
+step	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function step(numSteps, process)$/;"	f
 step	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^	var step = Math.pow(M, h);$/;"	v
 step	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function step(numSteps, process)$/;"	f
 step	elm.js	/^	var step = Math.pow(M, h);$/;"	v
 step	elm.js	/^function step(numSteps, process)$/;"	f
 stopPropagation	elm.js	/^var _elm_lang$virtual_dom$VirtualDom$defaultOptions = {stopPropagation: false, preventDefault: false};$/;"	p	class:_elm_lang$virtual_dom$VirtualDom$defaultOptions
+style	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function style(value)$/;"	f
 style	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function style(value)$/;"	f
 style	elm.js	/^function style(value)$/;"	f
 subMap	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^		tag: 'sub',$/;"	p	class:effectManagers
 subMap	elm.js	/^		tag: 'sub',$/;"	p	class:effectManagers
+subscribe	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function subscribe(callback)$/;"	f
 subscribe	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function subscribe(callback)$/;"	f	function:setupOutgoingPort
 subscribe	elm.js	/^	function subscribe(callback)$/;"	f	function:setupOutgoingPort
+succeed	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function succeed(msg)$/;"	f
+succeed	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function succeed(value)$/;"	f
 succeed	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^function succeed(msg)$/;"	f	function:_elm_lang$core$Native_Json
 succeed	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function succeed(value)$/;"	f	function:_elm_lang$core$Native_Scheduler
 succeed	elm.js	/^function succeed(msg)$/;"	f	function:_elm_lang$core$Native_Json
@@ -991,69 +1249,97 @@ tagger	elm.js	/^			var subEventRoot = {$/;"	p	class:render.subEventRoot
 tagger	elm.js	/^	var eventNode = { tagger: tagger, parent: undefined };$/;"	p	class:renderer.eventNode
 temp	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Json.js	/^			var temp = decoder.decoders;$/;"	v
 temp	elm.js	/^			var temp = decoder.decoders;$/;"	v
+text	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function text(string)$/;"	f
 text	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function text(string)$/;"	f	function:_elm_lang$virtual_dom$Native_VirtualDom
 text	elm.js	/^function text(string)$/;"	f	function:_elm_lang$virtual_dom$Native_VirtualDom
+thunk	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function thunk(func, args, thunk)$/;"	f
 thunk	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^function thunk(func, args, thunk)$/;"	f
 thunk	elm.js	/^function thunk(func, args, thunk)$/;"	f
+toArray	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toArray(xs)$/;"	f
 toArray	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/List.js	/^function toArray(xs)$/;"	f
 toArray	elm.js	/^function toArray(xs)$/;"	f
+toEffect	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toEffect(isCmd, home, taggers, value)$/;"	f
 toEffect	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^function toEffect(isCmd, home, taggers, value)$/;"	f
 toEffect	elm.js	/^function toEffect(isCmd, home, taggers, value)$/;"	f
+toFloat	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toFloat(s)$/;"	f
 toFloat	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function toFloat(s)$/;"	f	function:_elm_lang$core$Native_String
 toFloat	elm.js	/^function toFloat(s)$/;"	f	function:_elm_lang$core$Native_String
+toInt	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toInt(s)$/;"	f
 toInt	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function toInt(s)$/;"	f	function:_elm_lang$core$Native_String
 toInt	elm.js	/^function toInt(s)$/;"	f	function:_elm_lang$core$Native_String
+toJSArray	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toJSArray(a)$/;"	f
 toJSArray	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function toJSArray(a)$/;"	f
 toJSArray	elm.js	/^function toJSArray(a)$/;"	f
+toJSArray_	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toJSArray_(jsArray, i, a)$/;"	f
 toJSArray_	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function toJSArray_(jsArray, i, a)$/;"	f
 toJSArray_	elm.js	/^function toJSArray_(jsArray, i, a)$/;"	f
+toList	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toList(a)$/;"	f
+toList	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toList(str)$/;"	f
 toList	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function toList(a)$/;"	f
 toList	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function toList(str)$/;"	f	function:_elm_lang$core$Native_String
 toList	elm.js	/^function toList(a)$/;"	f
 toList	elm.js	/^function toList(str)$/;"	f	function:_elm_lang$core$Native_String
+toList_	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toList_(list, a)$/;"	f
 toList_	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function toList_(list, a)$/;"	f
 toList_	elm.js	/^function toList_(list, a)$/;"	f
+toLower	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toLower(str)$/;"	f
 toLower	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function toLower(str)$/;"	f	function:_elm_lang$core$Native_String
 toLower	elm.js	/^function toLower(str)$/;"	f	function:_elm_lang$core$Native_String
+toPolar	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toPolar(point)$/;"	f
 toPolar	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function toPolar(point)$/;"	f
 toPolar	elm.js	/^function toPolar(point)$/;"	f
+toString	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toString(v)$/;"	f
 toString	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function toString(v)$/;"	f
 toString	elm.js	/^function toString(v)$/;"	f
+toUpper	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function toUpper(str)$/;"	f
 toUpper	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function toUpper(str)$/;"	f	function:_elm_lang$core$Native_String
 toUpper	elm.js	/^function toUpper(str)$/;"	f	function:_elm_lang$core$Native_String
+trim	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function trim(str)$/;"	f
 trim	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function trim(str)$/;"	f	function:_elm_lang$core$Native_String
 trim	elm.js	/^function trim(str)$/;"	f	function:_elm_lang$core$Native_String
+trimLeft	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function trimLeft(str)$/;"	f
 trimLeft	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function trimLeft(str)$/;"	f	function:_elm_lang$core$Native_String
 trimLeft	elm.js	/^function trimLeft(str)$/;"	f	function:_elm_lang$core$Native_String
+trimRight	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function trimRight(str)$/;"	f
 trimRight	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function trimRight(str)$/;"	f	function:_elm_lang$core$Native_String
 trimRight	elm.js	/^function trimRight(str)$/;"	f	function:_elm_lang$core$Native_String
+truncate	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function truncate(n)$/;"	f
 truncate	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function truncate(n)$/;"	f
 truncate	elm.js	/^function truncate(n)$/;"	f
+turns	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function turns(t)$/;"	f
 turns	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function turns(t)$/;"	f
 turns	elm.js	/^function turns(t)$/;"	f
+uncons	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function uncons(str)$/;"	f
 uncons	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function uncons(str)$/;"	f	function:_elm_lang$core$Native_String
 uncons	elm.js	/^function uncons(str)$/;"	f	function:_elm_lang$core$Native_String
+unsafeGet	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function unsafeGet(i, array)$/;"	f
 unsafeGet	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function unsafeGet(i, array)$/;"	f	function:_elm_lang$core$Native_Array
 unsafeGet	elm.js	/^function unsafeGet(i, array)$/;"	f	function:_elm_lang$core$Native_Array
 unsafeQueryCallCount	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/tests/Native/TestHelpers.js	/^		unsafeRecordCallCount: unsafeRecordCallCount,$/;"	p	class:Elm.Native.TestHelpers.values
 unsafeQueryCallCount	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/tests/Native/TestHelpers.js	/^	function unsafeQueryCallCount(f) {$/;"	f	function:Elm.Native.TestHelpers.make
 unsafeRecordCallCount	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/tests/Native/TestHelpers.js	/^	Elm.Native.TestHelpers.values = {$/;"	p	class:Elm.Native.TestHelpers.values
 unsafeRecordCallCount	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/tests/Native/TestHelpers.js	/^	function unsafeRecordCallCount(f) {$/;"	f	function:Elm.Native.TestHelpers.make
+unsafeSet	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function unsafeSet(i, item, array)$/;"	f
 unsafeSet	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Array.js	/^function unsafeSet(i, item, array)$/;"	f	function:_elm_lang$core$Native_Array
 unsafeSet	elm.js	/^function unsafeSet(i, item, array)$/;"	f	function:_elm_lang$core$Native_Array
+unsubscribe	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function unsubscribe(callback)$/;"	f
 unsubscribe	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	function unsubscribe(callback)$/;"	f	function:setupOutgoingPort
 unsubscribe	elm.js	/^	function unsubscribe(callback)$/;"	f	function:setupOutgoingPort
+update	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function update(oldRecord, updatedFields)$/;"	f
 update	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Utils.js	/^function update(oldRecord, updatedFields)$/;"	f
 update	elm.js	/^function update(oldRecord, updatedFields)$/;"	f
 updateAndReplace	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/tests/Native/TestHelpers.js	/^		unsafeQueryCallCount: unsafeQueryCallCount,$/;"	p	class:Elm.Native.TestHelpers.values
+updateIfNeeded	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function updateIfNeeded()$/;"	f
 updateIfNeeded	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^	function updateIfNeeded()$/;"	f	function:renderer
 updateIfNeeded	elm.js	/^	function updateIfNeeded()$/;"	f	function:renderer
 vnode	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^			tag: 'insert',$/;"	p	class:entry
 vnode	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/src/Native/VirtualDom.js	/^			tag: 'remove',$/;"	p	class:changes
 vnode	elm.js	/^			tag: 'insert',$/;"	p	class:entry
 vnode	elm.js	/^			tag: 'remove',$/;"	p	class:changes
+words	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function words(str)$/;"	f
 words	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/String.js	/^function words(str)$/;"	f	function:_elm_lang$core$Native_String
 words	elm.js	/^function words(str)$/;"	f	function:_elm_lang$core$Native_String
+work	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function work()$/;"	f
 work	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^function work()$/;"	f
 work	elm.js	/^function work()$/;"	f
 workQueue	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^var workQueue = [];$/;"	v
@@ -1062,6 +1348,9 @@ worker	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Platform.js	/^	object['
 worker	elm.js	/^	object['worker'] = function worker(flags)$/;"	f	function:_elm_lang$core$Native_Platform
 working	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Scheduler.js	/^var working = false;$/;"	v
 working	elm.js	/^var working = false;$/;"	v
+wrapper	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function wrapper(a) { return function(b) { return fun(a,b); }; }$/;"	f
+wrapper	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function wrapper(a) { return function(b) { return function(c) {$/;"	f
+wrapper	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^        function wrapper(a) {$/;"	f
 wrapper	elm-stuff/packages/elm-lang/virtual-dom/1.1.1/tests/Native/TestHelpers.js	/^		function wrapper(a) {$/;"	f	function:Elm.Native.TestHelpers.make.unsafeRecordCallCount
 wrapper	elm.js	/^  function wrapper(a) { return function(b) { return fun(a,b); }; }$/;"	f	function:F2
 wrapper	elm.js	/^  function wrapper(a) { return function(b) { return function(c) {$/;"	f	function:F4
@@ -1071,5 +1360,6 @@ wrapper	elm.js	/^  function wrapper(a) { return function(b) { return function(c)
 wrapper	elm.js	/^  function wrapper(a) { return function(b) { return function(c) {$/;"	f	function:F8
 wrapper	elm.js	/^  function wrapper(a) { return function(b) { return function(c) {$/;"	f	function:F9
 wrapper	elm.js	/^  function wrapper(a) {$/;"	f	function:F3
+xor	/home/ryan/sync/ucode/elm_animation_glitch/index.html	/^      function xor(a, b)$/;"	f
 xor	elm-stuff/packages/elm-lang/core/4.0.5/src/Native/Basics.js	/^function xor(a, b)$/;"	f
 xor	elm.js	/^function xor(a, b)$/;"	f
